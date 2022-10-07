@@ -1,2 +1,6 @@
 a = input("enter:\n")
-print(a)
+if a == 'exit':
+    exit()
+else:
+    
+    print(a)
